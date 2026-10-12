@@ -5,7 +5,7 @@ export default function SiteFooter() {
         <div className="text-balance text-center font-medium text-muted-foreground text-sm leading-loose md:text-left">
           Built by{" "}
           <a
-            href="https://github.com/MrInspection"
+            href="https://github.com/Trixmas"
             target="_blank"
             rel="noreferrer"
             className="font-medium underline underline-offset-4"
@@ -14,7 +14,7 @@ export default function SiteFooter() {
           </a>
           . The source code is available on{" "}
           <a
-            href="https://github.com/MrInspection/pandaflow"
+            href="https://github.com/Trixmas/pandaflow"
             target="_blank"
             rel="noreferrer"
             className="font-medium underline underline-offset-4"
